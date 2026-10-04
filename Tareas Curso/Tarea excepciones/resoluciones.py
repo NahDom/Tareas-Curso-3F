@@ -1,7 +1,4 @@
-"""
-    a. Escribe un programa que intente dividir dos números. Si el segundo número es cero,
-    captura la excepción ZeroDivisionError y muestra un mensaje de error al usuario
-"""
+
 print("==============================================================================") 
 print("Ejercicios del punto a al e")
 print("==============================================================================") 
